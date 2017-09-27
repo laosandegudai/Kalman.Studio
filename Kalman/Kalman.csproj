@@ -366,7 +366,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="Data\DbProvider\DB2\vssver2.scc" />
     <None Include="Data\DbProvider\Firebird\vssver2.scc" />
     <None Include="Data\DbProvider\MySql\vssver2.scc" />
